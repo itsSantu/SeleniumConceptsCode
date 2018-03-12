@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9626" started-at="2018-03-12T06:58:11Z" finished-at="2018-03-12T06:58:20Z">
+  <suite name="Default suite" duration-ms="26154" started-at="2018-03-12T07:38:47Z" finished-at="2018-03-12T07:39:13Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9626" started-at="2018-03-12T06:58:11Z" finished-at="2018-03-12T06:58:20Z">
-      <class name="SeleniumConcept.CompleteSelenium.FBDropdownDateMonth">
-        <test-method status="PASS" signature="FBDropdownmonth()[pri:0, instance:SeleniumConcept.CompleteSelenium.FBDropdownDateMonth@d8355a8]" name="FBDropdownmonth" duration-ms="9605" started-at="2018-03-12T12:28:11Z" finished-at="2018-03-12T12:28:20Z">
+    <test name="Default test" duration-ms="26154" started-at="2018-03-12T07:38:47Z" finished-at="2018-03-12T07:39:13Z">
+      <class name="SeleniumConcept.CompleteSelenium.App">
+        <test-method status="PASS" signature="FBDropdown()[pri:0, instance:SeleniumConcept.CompleteSelenium.App@d8355a8]" name="FBDropdown" duration-ms="26134" started-at="2018-03-12T13:08:47Z" finished-at="2018-03-12T13:09:13Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- FBDropdownmonth -->
-      </class> <!-- SeleniumConcept.CompleteSelenium.FBDropdownDateMonth -->
+        </test-method> <!-- FBDropdown -->
+      </class> <!-- SeleniumConcept.CompleteSelenium.App -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
