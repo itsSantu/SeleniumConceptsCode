@@ -3,11 +3,11 @@
 <suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="SeleniumConcept.CompleteSelenium.FBDropdownDateMonth">
+      <class name="SeleniumConcept.CompleteSelenium.HandlingPopUp">
         <methods>
-          <include name="FBDropdownmonth"/>
+          <include name="fadeTransition"/>
         </methods>
-      </class> <!-- SeleniumConcept.CompleteSelenium.FBDropdownDateMonth -->
+      </class> <!-- SeleniumConcept.CompleteSelenium.HandlingPopUp -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
